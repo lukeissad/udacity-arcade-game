@@ -19,4 +19,4 @@ The goal of the game is to pass the hordes of icky bugs, without touching them a
 * Every time the player reaches the river they get a point, try to gather as many as you can.
 * The player is in 1/3 a cat and as such possesses 3 lives.
 
-You can find the game under this link: https://lukeissad.github.io/udacity-memory-game/.
+You can find the game under this link: https://lukeissad.github.io/udacity-arcade-game/.
