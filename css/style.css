@@ -1,3 +1,59 @@
 body {
-    text-align: center;
+  font-family: 'Pangolin', cursive;
+  text-align: center;
+}
+
+/*
+ * Styles for the end game modal.
+ */
+
+.game-end {
+  background-color: rgba(0, 0, 0, 0.5);
+  display: none;
+  height: 100%;
+  left: 0;
+  overflow: hidden;
+  padding-top: 5%;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1;
+}
+
+.end-content {
+  background-color: #fefefe;
+  border-radius: 10px;
+  color: #000;
+  margin: 0 auto;
+  overflow: hidden;
+  padding: 20px;
+  text-align: center;
+  width: 30%;
+}
+
+.end-heading {
+  font-size: 2em;
+  margin: 20px;
+}
+
+.end-paragraph {
+  font-size: 1.2em;
+  margin: 20px;
+}
+
+.end-restart-button {
+  background: #4b985c;
+  border: hidden;
+  border-radius: 10px;
+  color: #fefefe;
+  cursor: pointer;
+  font: bold 22px "Pangolin";
+  height: 50px;
+  letter-spacing: 1px;
+  margin: 20px;
+  width: 250px;
+}
+
+.end-restart-button:hover {
+  background: #5fc148;
 }
