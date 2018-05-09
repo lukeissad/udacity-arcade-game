@@ -1,6 +1,22 @@
-frontend-nanodegree-arcade-game
-===============================
+# Udacity Arcade Game Project
 
-Students should use this [rubric](https://review.udacity.com/#!/projects/2696458597/rubric) for self-checking their submission. Make sure the functions you write are **object-oriented** - either class functions (like Player and Enemy) or class prototype functions such as Enemy.prototype.checkCollisions, and that the keyword 'this' is used appropriately within your class and class prototype functions to refer to the object the function is called upon. Also be sure that the **readme.md** file is updated with your instructions on both how to 1. Run and 2. Play your arcade game.
+An arcade game project for the Udacity Front-End Web Developer Nanodegree Program.
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+## Table of Contents
+
+* [Project Details](#project-details)
+* [How to Play](#how-to-play)
+
+## Project Details
+
+The student was provided with visual assets and a game loop engine; using these tools he had to add a number of entities to the game including the player character and enemies to recreate the classic arcade game Frogger.
+
+## How to Play
+
+The goal of the game is to pass the hordes of icky bugs, without touching them and reach the river.
+
+* Use **right**, **left**, **up** and **down** arrow keys to move the character.
+* Every time the player reaches the river they get a point, try to gather as many as you can.
+* The player is in 1/3 a cat and as such possesses 3 lives.
+
+You can find the game under this link: https://lukeissad.github.io/udacity-memory-game/.
